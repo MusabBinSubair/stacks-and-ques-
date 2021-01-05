@@ -1,1 +1,1 @@
-# stacks-and-ques-
+# stackQ
